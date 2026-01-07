@@ -54,6 +54,6 @@ My recent projects focus on:
 
 ## 📫 Let's Connect!  
 Feel free to reach out if you'd like to collaborate or discuss data analytics and technology.  
-- **Email**: maje308@gmail.com  
+- **Email**: marchelino.535220107@gmail.com  
 
 Thank you for stopping by! 😊  
