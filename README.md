@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Marchelino Benediktus Leintan  
 
-I am a Undergraduate student pursuing a Bachelor's degree in Informatics Engineering at Universitas Tarumanagara. With a strong passion for data analysis and problem-solving, I have honed my skills to turn complex datasets into actionable insights.  
+I am a Bachelor's degree in Informatics Engineering at Universitas Tarumanagara. With a strong passion for data analysis and problem-solving, I have honed my skills to turn complex datasets into actionable insights.  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 **Education**: Undergraduate Informatics Engineering student at Universitas Tarumanagara  
+- 🎓 **Education**: Fresh Graduate Informatics Engineering student at Universitas Tarumanagara  
 - 🔍 **Specialization**: Data Scientist
 - 💻 **Skills**: Python, Pandas, NumPy, SQL, Data Visualization (Matplotlib, Seaborn), Microsoft Excel, and Data Cleaning  
 - 🌟 **Interests**: Data-driven decision-making, automation, and technology innovation  
