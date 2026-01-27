@@ -52,7 +52,7 @@ My recent projects focus on:
 - 🏆 1st Place in 4 Pillars Quiz Competition (Provincial Level)  
 ---
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 Feel free to reach out if you'd like to collaborate or discuss data analytics and technology.  
 - **Email**: marchelino.535220107@gmail.com  
 
